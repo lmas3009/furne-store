@@ -1,70 +1,103 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Overview of My Submission
+furene is an Online Furniture store. Where you can find all types of furniture all around the world. This is an STH (Shop to Home) Deliver Service. 
 
-## Available Scripts
 
-In the project directory, you can run:
+### Submission Category: 
 
-### `npm start`
+[Note]: # (E-Commerce Creation, Prime Time, Action Star, Automation Innovation, or Choose Your Own Adventure)
+This Project comes under E-Commerce Creation
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Link to Code
 
-### `npm test`
+[Note]: # (Our markdown editor supports pretty embeds. Try this syntax: `{% github link_to_your_repo %}` to share a GitHub repository)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Github Links:
 
-### `npm run build`
+Frontend: https://github.com/lmas3009/furne-store
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Backaned: https://github.com/lmas3009/furne-store-server
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+You can start collaborating this project throung clone this project.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+For Frontend
+```
+git clone https://github.com/lmas3009/furne-store.git
+```
 
-### `npm run eject`
+For Backend
+```
+git clone https://github.com/lmas3009/furne-store-server.git
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Additional Resources / Info
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+[Note]: # (Be sure to include the DEV usernames of your collaborators, if any. Prizes for winning projects with multiple collaborators will be sent to the person who posts this submission and they will distribute the prize evenly.)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Screenshots of the Project 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+This is Landing Page
 
-### Code Splitting
+![Landing Page](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ligrh555be3g5g68mw4n.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+This is Home Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Home Page](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/it3jk2mglsdtt1bjmkol.png)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This is Items View from Home Page
 
-### Advanced Configuration
+![Items View](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/l7rt2giovlzp12ybaw6g.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
+This is Cart Page
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+![Cart Page](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/mv0rpm5p1q82lhkswzpy.png)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This is Invoice Page
+
+![Invoice Page](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zdkelh89ni8j2ndxtus4.png)
+
+
+This is Short Video on this Project
+
+https://youtu.be/4QQ718MHrzI
+
+# Technology Used:
+
+
+## <u>Frontend</u>
+1. ReactJs 
+2. TailwindCSS
+3. Axios
+
+
+## <u>Backend</u>
+1. Node Js
+2. Mongoose Js
+3. Express Js
+4. MongoDB
+
+
+For Authentication i used **oAuth** Google Sign In
+
+
+This is my first time building this e-commerce website from the scratch. Feel free to post comments on this project.
+
+❤Thanks for Reading this post.
+
+I am open for open-source and Freelancing ( Mainly Frontend with any tech stack ).
+
+You can also connect with using:
+Twitter: [@AravindKumarV09](https://twitter.com/AravindKumarV09)
+LinkedIn: [aravind-kumar-vemula](https://www.linkedin.com/in/aravind-kumar-vemula-53bb80194)
+Github: [lmas3009](https://github.com/lmas3009)
+
+
+This Project is Licenced By Apache License 2.0
